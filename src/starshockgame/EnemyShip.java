@@ -21,5 +21,7 @@ package starshockgame;
  * @author Andrew
  */
 public class EnemyShip extends Ship {
-    
+    public EnemyShip(){
+        super();
+    }
 }
