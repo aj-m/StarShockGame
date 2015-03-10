@@ -21,8 +21,7 @@ package starshockgame;
  * @author Andrew
  */
 public class FriendlyShip extends Ship{
-    private int kills;
     public FriendlyShip(){
-        
+        super();
     }
 }
